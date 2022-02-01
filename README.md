@@ -25,8 +25,8 @@ Questi sono i miei social ;)
 ---
 
 
-### Now Playing 🎧
+### Cosa sto ascoltando: 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/itsceglione2?si=f67e8950152640b5)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itsceglione2&cover_image=true&theme=novatorem&bar_color=dfd686&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ---
