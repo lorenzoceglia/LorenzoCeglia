@@ -1,5 +1,5 @@
 
-## Ciao! Sono Lorenzo!
+## Ciao!
 
 ### Linguaggi e strumenti:
 
