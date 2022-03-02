@@ -1,11 +1,5 @@
 
 ## Ciao! Sono Lorenzo!
-Questi sono i miei social ;)
-
-<a href="https://www.linkedin.com/in/lorenzo-ceglia-5a8b45137/" target="_blank"><img align="left" alt="Lorenzo Ceglia LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/lorenzo.ceglia/" target="_blank"><img align="left" alt="Lorenzo Ceglia Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<br />
-<br />
 
 ### Linguaggi e strumenti:
 
